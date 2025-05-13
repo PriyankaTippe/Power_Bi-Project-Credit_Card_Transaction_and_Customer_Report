@@ -4,10 +4,10 @@
 
 This Power BI project presents two comprehensive dashboards:
 
-_Credit Card Transaction Report
-_
-_Credit Card Customer Report
-_
+**Credit Card Transaction Report**
+
+**Credit Card Customer Report**
+
 These dashboards provide end-to-end visual insights into credit card revenue, transaction behavior, customer segmentation, and business performance metrics. The purpose of this project is to demonstrate business intelligence capabilities using real-world styled credit card usage data.
 
 **📁 Contents**
